@@ -6,26 +6,19 @@
 
 ## Data & Results
 
-<div align="center">
-    <figure>
-        <img src="./assets/content(1).jpg" width="200" />
-        <figcaption>Caption for Image 1</figcaption>
-    </figure>
-    
-    <figure>
-        <img src="./assets/Starry-Night-(1).jpeg" width="200" />
-        <figcaption>Caption for Image 2</figcaption>
-    </figure>
-    
-    <figure>
-        <img src="./assets/result_500.jpg" width="200" />
-        <figcaption>Caption for Image 3</figcaption>
-    </figure>
-    
-    <figure>
-        <img src="./assets/result_3105.jpg" width="200" />
-        <figcaption>Caption for Image 4</figcaption>
-    </figure>
-</div>
+<p align="center">
+    <img src="./assets/content(1).jpg" alt="Image 1" width="200"/>
+    <img src="./assets/Starry-Night-(1).jpeg" alt="Image 2" width="200"/>
+    <br>
+    <em>Caption for Image 1</em>
+    <em>Caption for Image 2</em>
+</p>
+<p align="center">
+    <img src="./assets/result_500.jpg" alt="Image 3" width="200"/>
+    <img src="./assets/result_3105.jpg"" alt="Image 4" width="200"/>
+    <br>
+    <em>Caption for Image 3</em>
+    <em>Caption for Image 4</em>
+</p>
 
 
