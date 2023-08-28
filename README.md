@@ -11,9 +11,6 @@
   <img src="./assets/Starry-Night-(1).jpeg" width="22%" />
   <img src="./assets/result_500.jpg" width="22%" />
   <img src="./assets/result_3105.jpg" width="22%" />
+
+  content image                     style image                     result1                     result2
 </p>
-
-
-      Content Image                |               Style Image                  |  Reconstructed image at 500th iteration    |  Reconstructed image at 3105th iteration   |
-:--------------------------------  |  ----------------------------------------  |  ----------------------------------------  |  ------------------------------------------:|
-![cont](./assets/content(1).jpg)   |  ![style](./assets/Starry-Night-(1).jpg)   |  ![res1](./assets/result_500)              |      ![res2](./assets/result_3105)         |
