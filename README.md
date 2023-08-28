@@ -6,6 +6,14 @@
 
 ## Data & Results
 
+<p float="left">
+  <img src="./assets/content(1).jpg" width="25%" />
+  <img src="./assets/Starry-Night-(1).jpg" width="25%" />
+  <img src="./assets/results_500" width="25%" />
+  <img src="./assets/results_3100" width="25%" />
+</p>
+
+
       Content Image                |               Style Image                  |  Reconstructed image at 500th iteration    |  Reconstructed image at 3105th iteration   |
 :--------------------------------  |  ----------------------------------------  |  ----------------------------------------  |  ------------------------------------------:|
 ![cont](./assets/content(1).jpg)   |  ![style](./assets/Starry-Night-(1).jpg)   |  ![res1](./assets/result_500)              |      ![res2](./assets/result_3105)         |
