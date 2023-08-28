@@ -10,15 +10,15 @@
     <img src="./assets/content(1).jpg" alt="Content Image" width="500"/>
     <img src="./assets/Starry-Night-(1).jpeg" alt="Style Image" width="500"/>
     <br>
-    <em>Caption for Image 1</em>
-    <em>Caption for Image 2</em>
+    <em>Content Image</em>
+    <em>Style Image 2</em>
 </p>
 <p align="center">
     <img src="./assets/result_500.jpg" alt="Result at 500th iteration" width="500"/>
     <img src="./assets/result_3105.jpg" alt="Result at 3105th iteration" width="500"/>
     <br>
-    <em>Caption for Image 3</em>
-    <em>Caption for Image 4</em>
+    <em>Result at 500th iteration</em>
+    <em>Result at 3105th iteration</em>
 </p>
 
 
