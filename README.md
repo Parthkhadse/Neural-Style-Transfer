@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-    <img src="./assets/content(1).jpg" alt="Content Image" width="500"/>
-    <img src="./assets/Starry-Night-(1).jpeg" alt="Style Image" width="500"/>
+    <img src="./assets/content(1).jpg" alt="Content Image" width="400"/>
+    <img src="./assets/Starry-Night-(1).jpeg" alt="Style Image" width="400"/>
     <br>
 </p>
 
@@ -24,8 +24,8 @@
 
 
 <p align="center">
-    <img src="./assets/result_500.jpg" alt="Result at 500th iteration" width="500"/>
-    <img src="./assets/result_3105.jpg" alt="Result at 3105th iteration" width="500"/>
+    <img src="./assets/result_500.jpg" alt="Result at 500th iteration" width="400"/>
+    <img src="./assets/result_3105.jpg" alt="Result at 3105th iteration" width="400"/>
     <br>
 </p>
 
