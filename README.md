@@ -8,11 +8,11 @@
 
 <p float="left">
   <img src="./assets/content(1).jpg" width="22%" />
-  <em>content image</em>
+  <figcaption>content image</figcaption>
   <img src="./assets/Starry-Night-(1).jpeg" width="22%" />
-  <em>style image</em>
+  <figcaption>style image</figcaption>
   <img src="./assets/result_500.jpg" width="22%" />
-  <em>result at 500th iteration </em>
+  <figcaption>result at 500th iteration </figcaption>
   <img src="./assets/result_3105.jpg" width="22%" />
-  <em>result at 31050th iteration </em>
+  <figcaption>result at 31050th iteration </figcaption>
 </p>
