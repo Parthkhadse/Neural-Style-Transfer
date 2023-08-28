@@ -10,11 +10,9 @@
     <img src="./assets/content(1).jpg" alt="Content Image" width="500"/>
     <img src="./assets/Starry-Night-(1).jpeg" alt="Style Image" width="500"/>
     <br>
-    <em>Content Image</em>
-    <em>Style Image </em>
 </p>
-<p align="center">
-  <em>Caption for Image 1</em>
+<p >
+  <em>Caption for Image 1</em><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
   <em>Caption for Image 2</em>
 </p>
 <p align="center">
