@@ -6,17 +6,6 @@
 
 ## Data & Results
 
-<p float="left">
-  <img src="./assets/content(1).jpg" width="22%" />
-  <figcaption>content image</figcaption>
-  <img src="./assets/Starry-Night-(1).jpeg" width="22%" />
-  <figcaption>style image</figcaption>
-  <img src="./assets/result_500.jpg" width="22%" />
-  <figcaption>result at 500th iteration </figcaption>
-  <img src="./assets/result_3105.jpg" width="22%" />
-  <figcaption>result at 3105th iteration </figcaption>
-</p>
-
 <div align="center">
     <figure>
         <img src="./assets/content(1).jpg" width="200" />
