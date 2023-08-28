@@ -8,8 +8,11 @@
 
 <p float="left">
   <img src="./assets/content(1).jpg" width="22%" />
+  <em>content image</em>
   <img src="./assets/Starry-Night-(1).jpeg" width="22%" />
+  <em>style image</em>
   <img src="./assets/result_500.jpg" width="22%" />
+  <em>result at 500th iteration </em>
   <img src="./assets/result_3105.jpg" width="22%" />
+  <em>result at 31050th iteration </em>
 </p>
-<span><span><span><span><span><span>content image <span><span><span><span><span><span><span><span><span><span><span><span> style image <span><span><span><span><span><span><span><span><span><span><span><span> result1 <span><span><span><span><span><span><span><span><span><span><span><span> result2
