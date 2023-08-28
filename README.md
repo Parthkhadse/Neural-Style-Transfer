@@ -5,6 +5,6 @@
 
 ## Data & Results
 
-      Content Image            |               Style Image             |  Reconstructed image at 500th iteration    |  Reconstructed image at 3105th iteration    |
-:---------------------------- :|:-------------------------------------:|:------------------------------------------:|:------------------------------------------:|
-![](./assets/content(1).jpg)   |  ![](./assets/Starry-Night-(1).jpg)   |  ![](./assets/result_500)                 |      ![](./assets/result_3105)             |
+      Content Image                |               Style Image                  |  Reconstructed image at 500th iteration    |  Reconstructed image at 3105th iteration   |
+:-------------------------------- :|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+![cont](./assets/content(1).jpg)   |  ![style](./assets/Starry-Night-(1).jpg)   |  ![res1](./assets/result_500)              |      ![res2](./assets/result_3105)         |
