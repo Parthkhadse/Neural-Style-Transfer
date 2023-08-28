@@ -11,6 +11,5 @@
   <img src="./assets/Starry-Night-(1).jpeg" width="22%" />
   <img src="./assets/result_500.jpg" width="22%" />
   <img src="./assets/result_3105.jpg" width="22%" />
-
-  <span>content image <span><span><span><span><span><span> style image <span><span><span><span><span><span> result1 <span><span><span><span><span><span> result2
 </p>
+<span>content image <span><span><span><span><span><span> style image <span><span><span><span><span><span> result1 <span><span><span><span><span><span> result2
