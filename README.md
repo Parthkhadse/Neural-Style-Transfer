@@ -12,7 +12,7 @@
     <br>
 </p>
 <p >
-  <em>Caption for Image 1</em> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  <em>Caption for Image 1</em> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <em>Caption for Image 2</em>
 </p>
 <p align="center">
