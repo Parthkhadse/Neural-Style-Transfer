@@ -7,10 +7,10 @@
 ## Data & Results
 
 <p float="left">
-  <img src="./assets/content(1).jpg" width="25%" />
-  <img src="./assets/Starry-Night-(1).jpeg" width="25%" />
-  <img src="./assets/result_500.jpg" width="25%" />
-  <img src="./assets/result_3105.jpg" width="25%" />
+  <img src="./assets/content(1).jpg" width="22%" />
+  <img src="./assets/Starry-Night-(1).jpeg" width="22%" />
+  <img src="./assets/result_500.jpg" width="22%" />
+  <img src="./assets/result_3105.jpg" width="22%" />
 </p>
 
 
